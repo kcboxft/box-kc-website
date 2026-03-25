@@ -1,0 +1,17 @@
+box-kc-site/
+  index.html
+  styles.css
+  script.js
+  assets/
+    images/
+      logo.png
+  en/
+    index.html
+  impressum/
+    index.html
+  datenschutz/
+    index.html
+  en/legal/
+    index.html
+  en/privacy/
+    index.html
